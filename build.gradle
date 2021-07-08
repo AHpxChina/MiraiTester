@@ -1,0 +1,16 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.4.32'
+}
+
+group 'cn.ahpxchina.bot'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    api("net.mamoe:mirai-core-api:2.6.7")
+    runtimeOnly("net.mamoe:mirai-core:2.6.7")
+}
