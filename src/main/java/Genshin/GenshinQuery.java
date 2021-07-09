@@ -33,7 +33,7 @@ public class GenshinQuery {
 
     public static final String AppVersion = "2.9.0";
 
-    public static GenshinIndex GenshinIndex(String uid, String cookie){
+    public static GenshinIndex getGenshinIndex(String uid, String cookie){
         var gson = new Gson();
         var json = getIndexJson(uid, cookie);
 
