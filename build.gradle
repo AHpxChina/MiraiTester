@@ -11,6 +11,11 @@ repositories {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    implementation 'com.google.code.gson:gson:2.8.7'
     api("net.mamoe:mirai-core-api:2.6.7")
     runtimeOnly("net.mamoe:mirai-core:2.6.7")
+}
+
+javadoc {
+    options.encoding = 'UTF-8'
 }

@@ -87,3 +87,5 @@ exit /b 1
 if "%OS%"=="Windows_NT" endlocal
 
 :omega
+
+set DEFAULT_JVM_OPTS="-Dfile.encoding=UTF-8"

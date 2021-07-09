@@ -1,2 +1,6 @@
 MiraiBot.java
  MiraiBot
+Genshin/GenshinQuery.java
+ Genshin.GenshinQuery
+Utils/Http/HttpUtilities.java
+ Utils.Http.HttpUtilities
