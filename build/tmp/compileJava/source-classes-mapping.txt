@@ -1,6 +1,15 @@
-MiraiBot.java
- MiraiBot
 Genshin/GenshinQuery.java
  Genshin.GenshinQuery
+ Genshin.GenshinQuery$1
 Utils/Http/HttpUtilities.java
  Utils.Http.HttpUtilities
+MiraiBot.java
+ MiraiBot
+Utils/Json/JsonUtilities.java
+ Utils.Json.JsonUtilities
+Data/Genshin/GenshinIndex.java
+ Data.Genshin.GenshinIndex
+ Data.Genshin.GenshinIndex$Avatar
+ Data.Genshin.GenshinIndex$CityExploration
+ Data.Genshin.GenshinIndex$Stats
+ Data.Genshin.GenshinIndex$WorldExploration
