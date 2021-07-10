@@ -1,8 +1,6 @@
-package Utils.Json;
+package utils.json;
 
-import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.google.gson.JsonParseException;
 
 import java.util.Arrays;
 import java.util.regex.Pattern;

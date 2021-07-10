@@ -1,7 +1,5 @@
-package Data.Genshin;
+package data.genshin;
 
-import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 
 public class GenshinIndex {

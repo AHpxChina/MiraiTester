@@ -1,23 +1,17 @@
-package Genshin;
+package genshin;
 
-import Data.Genshin.GenshinIndex;
-import Utils.Http.HttpUtilities;
-import Utils.Json.JsonUtilities;
+import data.genshin.GenshinIndex;
+import utils.http.HttpUtilities;
+import utils.json.JsonUtilities;
 import com.google.gson.Gson;
-import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-import java.io.File;
-import java.io.IOException;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.time.Instant;
 import java.util.Formatter;
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Random;
 
 public class GenshinQuery {

@@ -1,4 +1,4 @@
-package Utils.Http;
+package utils.http;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
